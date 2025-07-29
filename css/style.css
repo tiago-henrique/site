@@ -17,7 +17,7 @@ html, body{
     width: 100%;
 }
 header{
-    background: var(--purple);
+    background: var(--marsala);
     width: 100%;
 }
 .head{
@@ -63,7 +63,7 @@ header{
     width: 100%;
 }
 .text-slide {
-    background-color: var(--purple);
+    background-color: var(--marsala);
     color: var(--white);
     font-size: 18px;
     padding: 1rem;
@@ -97,7 +97,6 @@ header{
   animation-name: fade;
   animation-duration: 1.5s;
 }
-
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
@@ -116,7 +115,7 @@ nav ul{
     width: 100%;
 }
 .link{
-    background-color: var(--purple);
+    background-color: var(--marsala);
     border-radius: 5px;
     color: var(--white);
     margin: 2px;
@@ -150,13 +149,13 @@ nav li{
 }
 .title-section{
     border-radius: 5px;
-    color: var(--purple);
+    color: var(--marsala);
     margin: auto;
     position: absolute;
     width: 70%;
 }
 .about{
-    background: var(--purple);
+    background: var(--marsala);
     border-radius: 5px;
     color: var(--white);
     display: flex;
@@ -223,7 +222,7 @@ nav li{
     width: 70%;
 }
 .questions{
-    background-color: var(--purple);
+    background-color: var(--marsala);
     border-radius: 5px;
     font-size: 18px;
     margin-bottom: 2px;
@@ -241,7 +240,7 @@ nav li{
     width: 70%;
 }
 .problems-text{
-    color: var(--purple);
+    color: var(--marsala);
     font-size: 25px;
     margin-top: 24.5vh;
     text-align: center;
